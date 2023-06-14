@@ -3,8 +3,8 @@ En este repositorio se encuentra el codigo fuente para la aplicacion de Aprendiz
 
 Los **Integrantes** de este proyecto son:
 - Daniel Felipe Riaño Rojas drianor@unal.edu.co 
-- David Silva Monrroy  dsilvamo@unal.edu.co
-- Daniel Eduardo Amarillo Echeverry - damarillo@unal.edu.co
+- David Silva Monrroy dsilvamo@unal.edu.co
+- Daniel Eduardo Amarillo Echeverry damarillo@unal.edu.co
 
 <table>
 <tbody>
