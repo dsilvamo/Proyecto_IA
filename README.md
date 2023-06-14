@@ -17,6 +17,14 @@ En este repositorio se encuentra el codigo fuente para la aplicacion de Aprendiz
 <img align="center" 
        src="https://github.com/dsilvamo/Proyecto_IA/blob/main/Gifs/prueba3.gif" 
        width="200"/>
+     
+## Tecnias de Aprendizaje Reforzado
+Las tecnicas usadas en este proyecto son:
+     - Q-Learnig
+     - DQN (Deep Q-Network)
+     - A2C (Actor-Critico)
+     - PPO (Proximal Policy Optimization)
+     
   
 
 
