@@ -6,6 +6,7 @@ En este repositorio se encuentra el codigo fuente para la aplicacion de Aprendiz
        src="https://github.com/dsilvamo/Proyecto_IA/blob/main/Gifs/Pong_entrenado_AdobeExpress.gif" 
        width="200"/> </p>
    </div>
-   <img align="center" 
+   <p>
+  <img align="center" 
        src="https://github.com/dsilvamo/Proyecto_IA/blob/main/Gifs/flappy_dqn_train_AdobeExpress.gif" 
        width="200"/> </p>
