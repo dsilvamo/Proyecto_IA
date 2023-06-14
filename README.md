@@ -1,10 +1,10 @@
 # Proyecto IA: Aprendizaje Reforzado apliacado a videojuegos de plataforma
 En este repositorio se encuentra el codigo fuente para la aplicacion de Aprendizaje Reforzado para algunos videojuegos de plataforma: el juego **PONG de Atari** y el juego para moviles **Flappy-Bird**. Estos juegos se encuentran implementados en la libreria `gymnasium`. La creacion del ambiente del juego movil de Flappy-Bird, que esta disponible en libreria `gimnasium` fue diseñada por Gabriel Nogueira y Martin Kubovcik, a quienes damos credito.
 
-Los **integrantes** de este proyecto academico son:
-- Daniel Felipe Riaño Rojas - Universidad Nacional de Colombia
-- David Silva Monrroy - Universidad Nacional de Colombia
-- Daniel Eduardo Amarillo Echeverry - Universidad Nacional de Colombia
+Los **Integrantes** de este proyecto son:
+- Daniel Felipe Riaño Rojas drianor@unal.edu.co 
+- David Silva Monrroy  dsilvamo@unal.edu.co
+- Daniel Eduardo Amarillo Echeverry - damarillo@unal.edu.co
 
 <table>
 <tbody>
